@@ -1,0 +1,8 @@
+Modul Pegawai
+field yang harus ada di data pegawai
+- id
+- name
+- tempat lahir
+- tanggal lahir
+- jenis kelamin
+- alamat
