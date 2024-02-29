@@ -4,3 +4,4 @@ Teknologi yang digunakan :
 - menggunakan lavarel 10.2
 - untuk fe menggunakan nuxt js
 - untuk be menggunakan laravel (api)
+- belajar github
