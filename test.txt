@@ -1,1 +1,6 @@
-test
+Simpeg Terintegrasi
+Teknologi yang digunakan :
+- menggunakan php 8
+- menggunakan lavarel 10.2
+- untuk fe menggunakan nuxt js
+- untuk be menggunakan laravel (api)
